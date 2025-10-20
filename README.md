@@ -1,7 +1,7 @@
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://avatars.githubusercontent.com/u/128902578](https://avatars.githubusercontent.com/u/163250467?v=4" width="250" height="250" />
+<img src="https://avatars.githubusercontent.com/u/163250467?v=4" width="250" height="250" />
 <h1>THW的GitHub页面</h1>
 <!--  skill badge 技能徽章 -->
 
