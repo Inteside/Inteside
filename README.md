@@ -2,7 +2,7 @@
 
 <!-- just img 图片 -->
 <img src="https://avatars.githubusercontent.com/u/163250467?v=4" width="250" height="250" />
-<h1>THW的GitHub页面</h1>
+<h1>关于我</h1>
 <!--  skill badge 技能徽章 -->
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
